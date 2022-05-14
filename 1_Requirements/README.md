@@ -1,7 +1,7 @@
 
 
 # INTRODUCTION
- 
+ The action of raising wiper speed is altered. The goal of the project is to provide automated transmission to older cars in order to improve their systems. wiping technology, adding a sensor and actuator to improve the system, and creating a rudimentary software that would function with the system completely.In spite of the fact that This mechanism will be upgraded to an automatic control system that will drain water from the windscreen.
 # SOFTWARE REQUIREMENTS
  STM32 CUBE IDE
 # COMPONENTS
