@@ -1,1 +1,2 @@
-
+# ABSTARCT
+A wiper is an important component that removes rain or any other liquid from a vehicle's windscreen. Previously, adjusting the frequency had to be done manually to activate the wipers. As a result, the action of raising wiper speed is altered. The goal of the project is to provide automated transmission to older cars in order to improve their systems. wiping technology, adding a sensor and actuator to improve the system, and creating a rudimentary software that would function with the system completely. the framework This proposed wiper technology works on the same basis as other existing conventional wipers. In spite of the fact that This mechanism will be upgraded to an automatic control system that will drain water from the windscreen.
